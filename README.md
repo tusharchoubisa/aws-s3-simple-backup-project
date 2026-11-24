@@ -50,3 +50,24 @@ Tushar Choubisa
 
 Aspiring Cloud & DevOps Engineer# aws-s3-simple-backup-project
 A beginner-friendly AWS S3 project demonstrating cloud storage, file uploads, backup folder organization, and backup verification.
+
+
+
+
+## Project Screenshots
+
+### 1. S3 Bucket Created
+![S3 Bucket](screenshots/s3-bucket.png)
+
+### 2. Backup File Uploaded
+![Backup File](screenshots/backup-file.png)
+
+### 3. S3 Bucket Overview
+![Bucket Overview](screenshots/bucket-overview.png)
+
+### 4. Bucket Objects
+![Bucket Objects](screenshots/bucket-objects.png)
+
+## Conclusion
+
+Successfully created an AWS S3 bucket, uploaded files, organized backup folders, and verified the backup copy using the AWS Management Console.
